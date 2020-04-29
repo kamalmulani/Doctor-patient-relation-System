@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+</html>
+
+<head>
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-md fixed-top bg-light navbar-light" style="color: white;">
+
+
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#colnav" aria-controls="colnav" aria-expanded="false" aria-tabel="toggle-navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="colnav">
+<ul class="navbar-nav">
+<li class="nav-item">
+    <a class="nav-link" href="index.html">home</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="patient.html">patient</a>
+</li>
+ <li class="nav-item">
+   <a class="nav-link" href="doctor.html">doctor</a>
+ </li>
+ 
+</ul>
+</div>
+</nav>
+
+
+</body>
+
+</html>
