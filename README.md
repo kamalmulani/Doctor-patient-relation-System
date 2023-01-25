@@ -1,4 +1,4 @@
-# webdev
+# HMS
 A basic digital doctor patient management system for hospitals.
 
 Tis project basically manages profiles of doctors and their patients including operation and appoinment dates,
